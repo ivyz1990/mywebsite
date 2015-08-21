@@ -118,7 +118,9 @@ margin-left:30%;
    color:black;
 }
 
-
+#map-canvas{
+width:100vw;
+}
 
 
 
